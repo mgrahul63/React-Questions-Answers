@@ -1,4 +1,4 @@
-# React Questions & Answers
+# React Questions & Answers (বাংলা)
 
 ## React-এর ডিক্লারেটিভ এপ্রোচ কীভাবে কাজ করে?
 
